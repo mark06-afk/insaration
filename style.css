@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace
+    font-weight: 300;
+}
+#insp {
+    width: 100%;
+    height: 800px;
+    background-color: #3ac748;
+}
+img:hover {
+    transform: scale(0.9);
+}
+img {
+    transition: transform.2s;
+}
+.imgclick {
+    height: 400px;
+    width: 500px;
+}
